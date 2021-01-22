@@ -12,8 +12,6 @@ $old_json = json_decode($old_data, true);
 //delete task
 unset($old_json[$id]);
  
-
-
 //convert array data to json
 $new_data = json_encode($old_json);
 
