@@ -1,2 +1,2 @@
-# task-api
-api for todo-list app 
+# TO-DO List App v1.0
+simple project  
