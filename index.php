@@ -30,6 +30,7 @@
                     <div class="input-group-append">
                         <button id="addTask" class="btn btn-success " type="submit">ADD</button>
                     </div>
+                </div>
             </form>
             <!-- List of task -->
             <div id="tasks" class="input-group mt-2 border row ">
