@@ -37,7 +37,6 @@
                 <!-- template of task -->
             </div>
         </div>
-        </div>
     </main>
 
     <!-- jQuery library -->
