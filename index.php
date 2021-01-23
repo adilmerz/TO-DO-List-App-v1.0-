@@ -9,7 +9,7 @@
         .container {
             background-color: #001335;
         }
-    </style />
+    </style>
     <!-- import bootstrap CSS -->
     <link rel="stylesheet" href="css/bootstrap.css" />
 </head>
