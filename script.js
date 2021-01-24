@@ -43,11 +43,10 @@ function showList(json) {
     tasks.innerHTML = list
 }
 
-
+    //event on click in checkbox
 function check(cb) {
     let id = cb.value;
     window.location.href = "check.php?id=" + id;
 }
-
-getData()
-
+    //event on load page
+    window.onload(getData())
